@@ -3,6 +3,7 @@
 An end-to-end **AI-powered disease prediction web application** that analyzes user-selected symptoms and predicts possible diseases using a trained Machine Learning model.
 
 🔗 **Live Demo:** https://medipredict-pearl.vercel.app/
+
 ⚙️ **Backend API:** https://medipredict-backend-4oad.onrender.com
 
 ---
