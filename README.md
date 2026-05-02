@@ -35,6 +35,18 @@ bun install
 bun run dev
 ```
 
+## 🌐 Live Demo
+    https://medipredict-pearl.vercel.app/
+
+## ⚙️ Backend API
+    https://medipredict-backend-4oad.onrender.com
+
+### API Endpoints
+
+- GET /symptoms
+- POST /predict
+
+  
 ## Screenshot
 
 ### Home Page
